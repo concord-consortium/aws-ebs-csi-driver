@@ -1,4 +1,4 @@
-name: Release Charts
+name: Publish Charts to GitHub Pages
 
 on:
   push:
